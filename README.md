@@ -1,4 +1,7 @@
 
+# Note: This project is being changed to a C++ project now.<br>
+
+
 > Open this page at [https://chessgeekboy.github.io/flappy-bird-20/](https://chessgeekboy.github.io/flappy-bird-20/)
 
 ## Use as Extension
